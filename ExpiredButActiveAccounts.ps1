@@ -15,7 +15,7 @@
     $MailRecipient
     $MailBody
 
-    This sends the mail in html format so accented characters can be used while still keeping the table format for the users list
+    This sends the mail in html format so accented characters can be used while still keeping the table format for the users list. You could easily send it in plain text instead.
 	===========================================================================
 	.DESCRIPTION
 		This script will send an e-mail notification to the selected mail listing all account expired but not disabled.
